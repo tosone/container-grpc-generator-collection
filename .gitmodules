@@ -1,0 +1,9 @@
+[submodule "containerd/protobuf"]
+	path = containerd/protobuf
+	url = https://github.com/gogo/protobuf.git
+[submodule "containerd/containerd"]
+	path = containerd/containerd
+	url = https://github.com/containerd/containerd.git
+[submodule "containerd/googleapis"]
+	path = containerd/googleapis
+	url = https://github.com/googleapis/googleapis.git
